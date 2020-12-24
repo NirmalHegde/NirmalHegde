@@ -1,20 +1,20 @@
-### Hi there, my name is Nirmal!
+## Hi there, my name is Nirmal!
 
-## 😄 About Me:
+### 😄 About Me:
 I am a Systems Design Engineering student at the University of Waterloo and am very fond of developing all different types of programs! Currently, I am working on an application called Skribbl.AI that attempts to mimic skribbl.io, but with the added twist that you can draw with your hand, rather than your mouse.
 
-## 🌱 I’m currently learning:
+### 🌱 I’m currently learning:
 - ``NodeJS``
 - ``React``
 - ``Vue``
 - ``SQL``
 - ``Python`` (AI Algorithms)
 
-## 📫 How to reach me:
+### 📫 How to reach me:
 - Email: nirmalhegde821@gmail.com
 - LinkedIn: https://www.linkedin.com/in/nirmalhegde/
 
-## ⚡ Fun fact:
+### ⚡ Fun fact:
 I love emulation and one day want to build my own emulator!
 
 <!--
