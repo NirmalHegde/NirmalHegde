@@ -7,6 +7,7 @@ I am a Systems Design Engineering student at the University of Waterloo and am v
 - ``NodeJS``
 - ``ReactJS``
 - ``VueJS``
+- ``Socket.io``
 - ``SQL``
 - ``Python`` (AI Algorithms)
 
