@@ -5,8 +5,8 @@ I am a Systems Design Engineering student at the University of Waterloo and am v
 
 ### 🌱 I’m currently learning:
 - ``NodeJS``
-- ``React``
-- ``Vue``
+- ``ReactJS``
+- ``VueJS``
 - ``SQL``
 - ``Python`` (AI Algorithms)
 
