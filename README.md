@@ -16,9 +16,6 @@ I am a Systems Design Engineering student at the University of Waterloo and am v
 - Email: nirmalhegde821@gmail.com
 - LinkedIn: https://www.linkedin.com/in/nirmalhegde/
 
-### ⚡ Fun fact:
-I love emulation and one day want to build my own emulator!
-
 <!--
 **NirmalHegde/NirmalHegde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
