@@ -14,5 +14,5 @@ I am a Systems Design Engineering student at the University of Waterloo and am v
 - LinkedIn: https://www.linkedin.com/in/nirmalh/
 
 ### 📈 Stats:
-![Nirmal's Github Stats](https://github-readme-stats.vercel.app/api?username=nirmalhegde)
+![Nirmal's Github Stats](https://github-readme-stats.vercel.app/api?username=nirmalhegde&theme=dark)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalHegde&layout=compact)
