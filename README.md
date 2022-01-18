@@ -12,6 +12,7 @@ I am a Systems Design Engineering student at the University of Waterloo and am v
 ### 📫 How to reach me:
 - Email: nirmalhegde821@gmail.com
 - LinkedIn: https://www.linkedin.com/in/nirmalh/
+- Portfolio: https://nirmalhegde.web.app
 
 ### 📈 Stats:
 ![Nirmal's Github Stats](https://github-readme-stats.vercel.app/api?username=nirmalhegde)
