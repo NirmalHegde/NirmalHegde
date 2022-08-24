@@ -5,6 +5,7 @@ I am a Systems Design Engineering student at the University of Waterloo and am v
 
 ### Past Internships:
 - Carta: Software Engineering Intern
+  - hello
 - Shoplogix: Software Developer Intern
 - MCAP: Software Engineering Intern
 
