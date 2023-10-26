@@ -4,7 +4,7 @@
 I am a Systems Design Engineering student at the University of Waterloo and am very fond of developing all different types of programs! I am currently gaining my experience as a Backend/Fullstack SWE.
 
 ## 💼 Past Internships:
-### Carta (2x)
+### Carta (3x)
 Developed flow to onboard employees to various Cap Table services in Django + React + PostgreSQL!
 ### Shoplogix
 Created web services to collect data from factories and analyze their production output to identify areas for improvement using C# .NET + React + PostgreSQL!
