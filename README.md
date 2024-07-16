@@ -4,6 +4,8 @@
 I am a Systems Design Engineering student at the University of Waterloo and am very fond of developing all different types of programs! I am currently gaining my experience as a Backend/Fullstack SWE.
 
 ## 💼 Past Internships:
+### Tesla
+Developing tools to help firmware engineers create cool cars!
 ### Carta (3x)
 Developed flow to onboard employees to various Cap Table services in Django + React + PostgreSQL!
 ### Shoplogix
